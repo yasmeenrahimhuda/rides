@@ -1,0 +1,17 @@
+.color{
+    background:#75BF7A; 
+    border-radius: 10px;
+}
+.para{
+    width: 100%;
+    color: white;
+    margin-top: 60px;
+    font-size: medium;
+    bottom: 20px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    padding: 10px 20px
+    ;
+}
